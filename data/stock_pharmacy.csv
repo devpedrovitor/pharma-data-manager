@@ -1,0 +1,121 @@
+produto,categoria,quantidade_estoque,preco,unidades_vendidas,validade,fornecedor,estoque_minimo
+Paracetamol 500mg,Analgésico,120.0,8.5,0.0,2025-03-10,PharmaPlus,50.0
+Paracetamol 500mg,Analgésico,Analgésico,8.5,0.0,2025-03-10,PharmaPlus,50.0
+Ibuprofeno 400mg,Anti-inflamatório,80.0,12.9,60.0,2026-01-15,MedCare,40.0
+Dipirona 1g,Analgésico,200.0,5.0,120.0,2024-12-01,PharmaPlus,70.0
+Omeprazol 20mg,Antiácido,65.0,18.4,30.0,2025-08-22,BioHealth,30.0
+Loratadina 10mg,Antialérgico,40.0,9.99,25.0,2024-11-10,MedCare,20.0
+Vitamina C 500mg,Suplemento,150.0,14.5,80.0,2026-05-19,NutriLab,60.0
+Amoxicilina 500mg,Antibiótico,50.0,22.3,35.0,2024-09-30,PharmaPlus,25.0
+Soro Fisiológico 500ml,Item Hospitalar,90.0,0.0,70.0,2026-02-01,HospEquip,40.0
+Álcool 70%,Higiene,30.0,6.5,0.0,2027-01-01,HospEquip,20.0
+Fralda Geriátrica G,Higiene,0.0,39.9,10.0,2025-04-12,SeniorCare,20.0
+Clorexidina 2%,Antisséptico,55.0,11.2,22.0,2025-11-20,HospEquip,25.0
+Multivitamínico A-Z,Suplemento,140.0,32.0,0.0,2026-06-10,NutriLab,50.0
+Metformina 850mg,Antidiabético,60.0,17.5,40.0,2025-09-05,PharmaPlus,30.0
+Losartana 50mg,Antihipertensivo,85.0,19.9,55.0,2026-03-14,MedCare,40.0
+Airborne Vitamina C,Suplemento,100.0,28.99,48.0,2026-12-01,NutriLab,40.0
+Sabonete Líquido Neutro,Higiene,75.0,7.5,20.0,2027-05-22,CleanCare,30.0
+Pomada Nebacetin,Antisséptico,45.0,16.8,18.0,2025-07-08,BioHealth,20.0
+Seringa 5ml,Item Hospitalar,200.0,1.2,90.0,2029-01-01,HospEquip,100.0
+Pomada de Assadura,Bebê,50.0,9.49,28.0,2025-10-12,BabySoft,20.0
+Shampoo Anticaspa,Higiene,60.0,22.5,30.0,2026-09-21,CleanCare,25.0
+Escova Dental Macia,Higiene Bucal,150.0,6.2,80.0,2030-01-01,OralMax,50.0
+Enxaguante Bucal 500ml,Higiene Bucal,110.0,14.9,55.0,2027-03-18,OralMax,40.0
+Protetor Solar FPS 50,Cosmético,45.0,49.9,33.0,2025-12-30,SkinCare,20.0
+Hidratante Corporal 200ml,Cosmético,70.0,26.5,27.0,2026-04-19,SkinCare,30.0
+Carvão Ativado 250mg,Fitoterápico,35.0,21.0,14.0,2025-02-11,NatureLab,15.0
+Chá de Camomila,Fitoterápico,90.0,10.0,32.0,2026-08-01,NatureLab,40.0
+Bandagem Elástica M,Primeiros Socorros,80.0,12.0,38.0,2028-02-01,HospEquip,30.0
+Termômetro Digital,Equipamento,25.0,34.9,12.0,2030-12-31,TechMed,10.0
+Oxímetro de Dedo,Equipamento,18.0,59.9,8.0,2031-01-01,TechMed,5.0
+Água Micelar 200ml,Cosmético,55.0,24.99,26.0,2026-10-09,SkinCare,20.0
+Sabão Glicerinado,Higiene,0.0,4.3,21.0,2027-03-12,CleanCare,30.0
+Pasta de Dente Infantil,Higiene Bucal,95.0,8.2,40.0,2028-01-01,OralMax,35.0
+Escova Interdental,Higiene Bucal,60.0,12.5,22.0,2030-02-15,OralMax,25.0
+Creatina 300g,Suplemento,45.0,89.9,18.0,2027-06-10,NutriLab,20.0
+Whey Protein 900g,Suplemento,35.0,129.9,16.0,2026-11-01,NutriLab,15.0
+Vitamina D3 2000UI,Suplemento,110.0,29.9,70.0,2027-04-12,NutriLab,40.0
+Antisséptico Bucal Kids,Higiene Bucal,50.0,11.5,19.0,2028-05-22,OralMax,20.0
+Esmalte Fortalecedor,Cosmético,45.0,18.9,17.0,2026-09-14,SkinCare,20.0
+Creme para Mãos 50g,Cosmético,65.0,12.9,25.0,2026-05-17,SkinCare,25.0
+Loção Pós-sol,Cosmético,40.0,27.8,14.0,2025-12-18,SkinCare,15.0
+Chá Verde,Fitoterápico,85.0,11.5,36.0,2026-03-10,NatureLab,35.0
+Guaraná em Pó 100g,Fitoterápico,55.0,16.5,20.0,2025-11-05,NatureLab,20.0
+Curativo Impermeável,Primeiros Socorros,140.0,3.6,75.0,2028-03-10,HospEquip,50.0
+Desodorante Aerosol,Higiene,90.0,14.99,42.0,2027-04-21,CleanCare,30.0
+Sabonete Íntimo,Higiene,45.0,17.99,18.0,2026-10-17,CleanCare,20.0
+Lenço Umedecido,Bebê,130.0,12.8,60.0,2027-01-15,BabySoft,50.0
+Shampoo Bebê,Bebê,50.0,18.9,20.0,2026-06-10,BabySoft,0.0
+Toalha Umedecida Antisséptica,Higiene,75.0,15.9,0.0,2027-07-10,CleanCare,30.0
+Enfátese Premium 800g,Suplemento Infantil,40.0,69.9,18.0,2025-10-10,BabySoft,15.0
+Protetor Labial FPS 30,Cosmético,85.0,0.0,41.0,2027-02-20,SkinCare,0.0
+Creme Antirrugas,Cosmético,30.0,89.9,12.0,2026-05-05,SkinCare,10.0
+Água Termal 150ml,Cosmético,0.0,32.9,20.0,2026-07-21,SkinCare,20.0
+Ácido Salicílico 2%,Dermocosmético,35.0,49.9,14.0,2025-12-31,SkinCare,15.0
+Serum Vitamina C 10%,Dermocosmético,30.0,0.0,16.0,2026-11-22,SkinCare,0.0
+Vitamina B12 1000mcg,Suplemento,95.0,24.9,45.0,2027-09-11,NutriLab,35.0
+Probiotico 30 Cápsulas,Suplemento,0.0,0.0,28.0,2026-10-10,NutriLab,25.0
+Ômega 3 1000mg,Suplemento,0.0,59.9,55.0,2027-04-01,NutriLab,50.0
+Passiflora 500mg,Fitoterápico,0.0,22.9,16.0,2025-08-14,NatureLab,20.0
+Ginkgo Biloba 80mg,Fitoterápico,60.0,28.9,24.0,2026-01-18,NatureLab,25.0
+Bepantol Baby,Bebê,40.0,29.9,18.0,2025-11-22,BabySoft,15.0
+Pomada para Hemorroida,Medicamento,25.0,22.9,10.0,2025-09-10,PharmaPlus,10.0
+Captopril 25mg,Antihipertensivo,75.0,14.5,32.0,2026-08-10,MedCare,35.0
+Simeticona 40mg,Antigases,50.0,9.9,21.0,2026-02-14,MedCare,20.0
+Laxante Fitoterápico,Fitoterápico,65.0,18.9,28.0,2025-12-18,NatureLab,30.0
+Colírio Lubrificante,Ótico,80.0,16.9,35.0,2027-07-21,BioHealth,30.0
+Colírio Antialérgico 10ml,Ótico,55.0,22.8,24.0,2026-04-17,BioHealth,20.0
+Seringa 3ml,Item Hospitalar,210.0,1.1,95.0,2029-05-01,HospEquip,80.0
+Agulha 30x7mm,Item Hospitalar,300.0,0.8,140.0,2030-12-01,HospEquip,120.0
+Fita Microporosa 1cm,Primeiros Socorros,125.0,4.2,60.0,2028-01-11,HospEquip,50.0
+Esfigmomanômetro,Equipamento,12.0,0.0,6.0,2032-01-01,TechMed,3.0
+Estetoscópio,Equipamento,0.0,159.9,7.0,2032-06-01,TechMed,4.0
+Nebulizador Portátil,Equipamento,20.0,0.0,10.0,2033-10-10,TechMed,0.0
+Bengala de Alumínio,Ortopedia,18.0,79.9,8.0,2035-01-01,OrtoPlus,5.0
+Tornozeleira Neoprene,Ortopedia,40.0,34.9,22.0,2034-08-19,OrtoPlus,15.0
+Colar Cervical M,Ortopedia,25.0,49.9,14.0,2034-04-10,OrtoPlus,10.0
+Sabonete Esfoliante,Higiene,65.0,0.0,30.0,2026-03-10,CleanCare,25.0
+Creme para Rosto Noturno,Cosmético,30.0,89.0,12.0,2026-12-13,SkinCare,10.0
+Máscara de Hidratação Capilar,Cosmético,45.0,24.9,20.0,2027-03-10,SkinCare,15.0
+Esmalte Rosa Nude,Cosmético,55.0,9.9,28.0,2028-05-01,SkinCare,25.0
+Suplemento de Magnésio,Suplemento,90.0,34.5,42.0,2027-09-09,NutriLab,30.0
+Suplemento de Zinco,Suplemento,80.0,22.9,35.0,2027-03-01,NutriLab,25.0
+Chá de Hortelã,Fitoterápico,70.0,9.5,26.0,2026-05-10,NatureLab,30.0
+Creme para Pés,Cosmético,60.0,19.9,24.0,2026-11-09,SkinCare,20.0
+Creme Antiacne,Dermocosmético,35.0,49.9,14.0,2026-08-04,SkinCare,10.0
+Shampoo Antirresíduos,Higiene,50.0,23.9,18.0,2027-01-01,CleanCare,20.0
+Condicionador Reparador,Higiene,55.0,21.9,22.0,2027-02-17,CleanCare,20.0
+Álcool em Gel 70%,Higiene,100.0,7.5,50.0,2027-12-01,CleanCare,40.0
+Protetor Solar Facial FPS 70,Cosmético,35.0,64.9,16.0,2026-10-22,SkinCare,10.0
+Óleo Corporal 200ml,Cosmético,45.0,0.0,20.0,2026-03-14,SkinCare,20.0
+Vaselina Sólida 100g,Higiene,80.0,12.9,33.0,2028-01-01,CleanCare,30.0
+Algodão 50g,Higiene,150.0,5.9,70.0,2029-01-01,CleanCare,60.0
+Adesivo Quente Ortopédico,Ortopedia,35.0,14.9,17.0,2034-12-21,OrtoPlus,10.0
+Cinta Lombar G,Ortopedia,20.0,0.0,9.0,2035-06-11,OrtoPlus,5.0
+Kit Primeiros Socorros,Primeiros Socorros,25.0,59.9,11.0,2030-01-01,HospEquip,8.0
+Lâmina de Bisturi 15C,Item Hospitalar,250.0,1.0,120.0,2030-03-18,HospEquip,100.0
+Cânula Nasal Infantil,Item Hospitalar,80.0,4.5,32.0,2031-05-01,HospEquip,30.0
+Fita Teste Glicemia 50un,Medicamento,40.0,79.9,20.0,2026-11-30,MedCare,0.0
+Insulina NPH 10ml,Medicamento Controlado,0.0,42.9,14.0,2025-12-02,PharmaPlus,10.0
+Insulina Regular 10ml,Medicamento Controlado,28.0,42.9,12.0,2025-12-15,PharmaPlus,10.0
+Levotiroxina 75mcg,Medicamento,60.0,16.8,28.0,2026-08-20,MedCare,25.0
+Ranitidina 150mg,Antiácido,40.0,18.9,17.0,2025-11-01,MedCare,15.0
+Espinheira Santa,Fitoterápico,55.0,16.9,20.0,2026-04-01,NatureLab,20.0
+Urtiga 500mg,Fitoterápico,45.0,19.9,18.0,2025-12-11,NatureLab,15.0
+Pílula do Dia Seguinte,Medicamento,70.0,32.9,35.0,2027-04-05,BioHealth,30.0
+Ácido Fólico 5mg,Suplemento,85.0,14.9,40.0,2027-09-09,NutriLab,35.0
+Colágeno Hidrolisado 200g,Suplemento,55.0,49.9,0.0,2026-12-19,NutriLab,20.0
+Espirômetro,Equipamento,10.0,249.9,4.0,2034-01-01,TechMed,2.0
+Desodorante Roll-on,Higiene,90.0,11.5,38.0,2027-01-21,CleanCare,30.0
+Creme Hidratante Facial,Cosmético,50.0,35.0,21.0,2026-03-14,SkinCare,15.0
+Tinta para Cabelo Castanho,Cosmético,30.0,24.9,12.0,2026-06-01,SkinCare,10.0
+Óleo Essencial de Lavanda,Aromaterapia,40.0,29.9,15.0,2028-01-10,NatureLab,15.0
+Óleo Essencial de Hortelã,Aromaterapia,38.0,27.9,14.0,2028-03-15,NatureLab,15.0
+Umidificador de Ar,Equipamento,15.0,0.0,7.0,2033-01-01,TechMed,3.0
+Tesoura Cirúrgica 12cm,Item Hospitalar,50.0,14.9,22.0,2031-05-01,HospEquip,0.0
+Compressa Quente/Fria,Primeiros Socorros,35.0,29.9,14.0,2030-02-14,HospEquip,10.0
+Luva Nitrílica M,Item Hospitalar,0.0,1.9,90.0,2030-12-01,HospEquip,80.0
+Luva Cirúrgica Estéril G,Item Hospitalar,150.0,2.5,75.0,2031-01-15,HospEquip,60.0
+Ferrolho Ajustável Ortopédico,Ortopedia,12.0,89.9,6.0,2034-07-22,OrtoPlus,3.0
+Faixa Elástica de Exercício,Ortopedia,40.0,29.9,20.0,2034-10-10,OrtoPlus,15.0
